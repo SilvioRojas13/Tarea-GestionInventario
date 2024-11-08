@@ -72,5 +72,28 @@ namespace Tarea_GestionInventario
             Console.WriteLine($"Productos con precio entre 100 y 500: {categorias.GetValueOrDefault("entre 100 y 500", 0)}");
             Console.WriteLine($"Productos con precio mayor a 500: {categorias.GetValueOrDefault("mayores a 500", 0)}");
         }
+
+        public void GenerarReporteResumido()
+        {
+            int totalProductos = productos.Count;
+            decimal precioPromedio = totalProductos > 0 ? productos.Average(p => p.Precio) : 0;
+            var productoMasCaro = productos.OrderByDescending(p => p.Precio).FirstOrDefault();
+            var productoMasBarato = productos.OrderBy(p => p.Precio).FirstOrDefault();
+
+            Console.WriteLine("Reporte Resumido del Inventario:");
+            Console.WriteLine($"• Número total de productos: {totalProductos}");
+            Console.WriteLine($"• Precio promedio de todos los productos: {precioPromedio:C}");
+
+            if (productoMasCaro != null && productoMasBarato != null)
+            {
+                Console.WriteLine($"• Producto con el precio más alto: {productoMasCaro.Nombre}, Precio: {productoMasCaro.Precio:C}");
+                Console.WriteLine($"• Producto con el precio más bajo: {productoMasBarato.Nombre}, Precio: {productoMasBarato.Precio:C}");
+            }
+            else
+            {
+                Console.WriteLine("• No hay productos en el inventario para mostrar el precio más alto o más bajo.");
+            }
+        }
+
     }
 }
