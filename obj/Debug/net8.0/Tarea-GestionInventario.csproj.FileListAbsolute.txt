@@ -1,0 +1,15 @@
+C:\Users\Wesley\Desktop\Programación 1\Nueva carpeta\Tarea-GestionInventario\bin\Debug\net8.0\Tarea-GestionInventario.exe
+C:\Users\Wesley\Desktop\Programación 1\Nueva carpeta\Tarea-GestionInventario\bin\Debug\net8.0\Tarea-GestionInventario.deps.json
+C:\Users\Wesley\Desktop\Programación 1\Nueva carpeta\Tarea-GestionInventario\bin\Debug\net8.0\Tarea-GestionInventario.runtimeconfig.json
+C:\Users\Wesley\Desktop\Programación 1\Nueva carpeta\Tarea-GestionInventario\bin\Debug\net8.0\Tarea-GestionInventario.dll
+C:\Users\Wesley\Desktop\Programación 1\Nueva carpeta\Tarea-GestionInventario\bin\Debug\net8.0\Tarea-GestionInventario.pdb
+C:\Users\Wesley\Desktop\Programación 1\Nueva carpeta\Tarea-GestionInventario\obj\Debug\net8.0\Tarea-GestionInventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wesley\Desktop\Programación 1\Nueva carpeta\Tarea-GestionInventario\obj\Debug\net8.0\Tarea-GestionInventario.AssemblyInfoInputs.cache
+C:\Users\Wesley\Desktop\Programación 1\Nueva carpeta\Tarea-GestionInventario\obj\Debug\net8.0\Tarea-GestionInventario.AssemblyInfo.cs
+C:\Users\Wesley\Desktop\Programación 1\Nueva carpeta\Tarea-GestionInventario\obj\Debug\net8.0\Tarea-GestionInventario.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\Desktop\Programación 1\Nueva carpeta\Tarea-GestionInventario\obj\Debug\net8.0\Tarea-GestionInventario.sourcelink.json
+C:\Users\Wesley\Desktop\Programación 1\Nueva carpeta\Tarea-GestionInventario\obj\Debug\net8.0\Tarea-GestionInventario.dll
+C:\Users\Wesley\Desktop\Programación 1\Nueva carpeta\Tarea-GestionInventario\obj\Debug\net8.0\refint\Tarea-GestionInventario.dll
+C:\Users\Wesley\Desktop\Programación 1\Nueva carpeta\Tarea-GestionInventario\obj\Debug\net8.0\Tarea-GestionInventario.pdb
+C:\Users\Wesley\Desktop\Programación 1\Nueva carpeta\Tarea-GestionInventario\obj\Debug\net8.0\Tarea-GestionInventario.genruntimeconfig.cache
+C:\Users\Wesley\Desktop\Programación 1\Nueva carpeta\Tarea-GestionInventario\obj\Debug\net8.0\ref\Tarea-GestionInventario.dll
